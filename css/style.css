@@ -77,14 +77,23 @@ body > footer > div > div.help.col-md-4 > label {
 }
 
 body > div.row > div:nth-child(3) > h1 {
+  font-family: monospace;
 }
 
 body > div.row > div:nth-child(2) > h1 {
+  font-family: monospace;
 }
 
 body > div.row > div:nth-child(1) > h1 {
+  font-family: monospace;
 }
 
 body > div.row {
   margin-left: 50px;
+}
+
+body > div.Container {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-family: monospace;
 }
