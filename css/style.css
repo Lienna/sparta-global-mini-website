@@ -97,3 +97,19 @@ body > div.Container {
   padding-bottom: 50px;
   font-family: monospace;
 }
+
+body > div:nth-child(3) {
+  display: block;
+  font-family: monospace;
+}
+
+body > div:nth-child(4) {
+  font-family: monospace;
+}
+
+.pagination {
+  float: right;
+  padding: 8px 16px;
+  font-size: 20px;
+  font-family: monospace;
+}
