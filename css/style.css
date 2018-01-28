@@ -25,8 +25,15 @@ body > nav > div > div.navbar-header > img {
   color: rgb(0, 136, 199);
 }
 
-body > nav > div > div.navbar-header > div > h1 {
+body > div.container {
   text-align: center;
-  font-family: monospace;
-  
+  padding: 30px;
+  background: rgb(94, 183, 225);
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
 }
