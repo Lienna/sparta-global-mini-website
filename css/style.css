@@ -75,3 +75,16 @@ body > footer > div > div.help.col-md-4 > label {
   font-size: 20px;
   color: black;
 }
+
+body > div.row > div:nth-child(3) > h1 {
+}
+
+body > div.row > div:nth-child(2) > h1 {
+}
+
+body > div.row > div:nth-child(1) > h1 {
+}
+
+body > div.row {
+  margin-left: 50px;
+}
