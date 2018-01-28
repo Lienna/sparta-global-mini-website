@@ -37,3 +37,14 @@ input[type="text"] {
   margin: 8px 0;
   box-sizing: border-box;
 }
+
+#myCarousel {
+  max-width: 80%;
+  display: block;
+  margin-left: 4%;
+}
+
+body > div.carouselContainer.col-md-12 {
+  margin: 80px;
+  display: inline-block;
+}
