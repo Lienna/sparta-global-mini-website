@@ -26,7 +26,6 @@ body > nav > div > div.navbar-header > img {
 }
 
 body > div.container {
-  text-align: center;
   padding: 30px;
   background: rgb(94, 183, 225);
 }
@@ -47,4 +46,32 @@ input[type="text"] {
 body > div.carouselContainer.col-md-12 {
   margin: 80px;
   display: inline-block;
+}
+
+footer {
+  clear: both;
+}
+
+body > footer > div {
+  border-top: 1px dashed;
+  color: grey;
+}
+
+body > footer > div > div.copyright {
+  text-align: center;
+}
+
+body > footer > div > div.socialmedia.col-md-4 > label {
+  font-size: 20px;
+  color: black;
+}
+
+body > footer > div > div.tools.col-md-4 > label {
+  font-size: 20px;
+  color: black;
+}
+
+body > footer > div > div.help.col-md-4 > label {
+  font-size: 20px;
+  color: black;
 }
