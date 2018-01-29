@@ -4,7 +4,7 @@
 To design a 3 page mini website incorporating all that was learnt in week 1. Using HTML, CSS and Bootstrap to style the website.
 
 ## Features
-#### All pages
+### All pages
 * Responsive navbar with hamburger menu
 * Jumbotron with background styled with CSS
 
@@ -34,7 +34,7 @@ footer {
 }
 ```
 <br>
-#### Page 1
+### Page 1
 * Used bootstrap to position forms on page
 
 ```HTML
@@ -52,7 +52,7 @@ footer {
   </ol>
 ```
 <br>
-#### Page 2
+### Page 2
 * Bootstrap used to position thumbnails
 * Videos with controls added to thumbnails
 
@@ -65,7 +65,7 @@ footer {
 <table class="table table-bordered">
 ```
 <br>
-#### Page 3
+### Page 3
 * Bootstrap used to position thumbnails across the page
 * Content styled in CSS
 
